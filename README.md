@@ -16,10 +16,12 @@ It demonstrates skills in data cleaning, visualization, and handling multidimens
 - Plots in `/plots`
 - Sample datasets in `/data`
 
-Example plots:
+## Example plots
 
 ![Daily Trend](plots/daily_trend.png)
-![Annual Trend](plots/annual_trend.png)
+![Monthly Average](plots/monthly_avg.png)
+![Seasonal Boxplot](plots/seasonal_boxplot.png)
+
 
 ---
 
